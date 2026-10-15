@@ -1,14 +1,14 @@
 {
   "name": "typenode",
   "displayName": "Typenode",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Build custom MCP servers and tools, configure integrations and automate workflows with Typenode.",
   "author": {
     "name": "Typenode, Inc.",
     "email": "support@typenode.ai",
     "url": "https://typenode.ai"
   },
-  "homepage": "https://docs.typenode.ai/connect/claude",
+  "homepage": "https://typenode.ai",
   "repository": "https://github.com/typenode-ai/claude-plugin",
   "license": "MIT",
   "keywords": [
