@@ -18,7 +18,7 @@ This Plugin connects Claude to the Typenode MCP connector at `https://mcp.typeno
 - How Typenode handles data: [Privacy policy](https://typenode.ai/legal/privacy-policy)
 - Terms: [Terms of service](https://typenode.ai/legal/terms-of-service)
 - Support: [support@typenode.ai](mailto:support@typenode.ai) or [typenode.ai/support](https://typenode.ai/support)
-- Docs: [Connect Typenode to Claude](https://docs.typenode.ai/mcp/claude)
+- Docs: [Connect Claude to Typenode](https://docs.typenode.ai/connect/claude)
 
 ## License
 

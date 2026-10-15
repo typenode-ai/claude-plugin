@@ -8,7 +8,7 @@
     "email": "support@typenode.ai",
     "url": "https://typenode.ai"
   },
-  "homepage": "https://docs.typenode.ai/mcp/claude",
+  "homepage": "https://docs.typenode.ai/connect/claude",
   "repository": "https://github.com/typenode-ai/claude-plugin",
   "license": "MIT",
   "keywords": [
@@ -18,7 +18,7 @@
     "mcp",
     "integrations"
   ],
-  "documentationUrl": "https://docs.typenode.ai/mcp/claude",
+  "documentationUrl": "https://docs.typenode.ai/connect/claude",
   "supportUrl": "https://typenode.ai/support",
   "privacyPolicyUrl": "https://typenode.ai/legal/privacy-policy",
   "termsOfServiceUrl": "https://typenode.ai/legal/terms-of-service"
