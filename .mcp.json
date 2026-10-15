@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "typenode": {
+      "type": "http",
+      "url": "https://mcp.typenode.ai/plugins/claude/mcp"
+    }
+  }
+}
